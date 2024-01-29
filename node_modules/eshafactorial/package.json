@@ -1,0 +1,14 @@
+{
+  "name": "eshafactorial",
+  "version": "1.0.0",
+  "description": "To find the factorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "esha"
+  ],
+  "author": "\"eshalal <eshalal9693@gmail.com>",
+  "license": "ISC"
+}

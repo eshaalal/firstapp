@@ -1,0 +1,14 @@
+{
+  "name": "eshaprime",
+  "version": "1.0.0",
+  "description": "Find the prime number",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "keywords": [
+    "esha"
+  ],
+  "author": "eshalal",
+  "license": "ISC"
+}
