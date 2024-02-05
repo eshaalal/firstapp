@@ -1,2 +1,1 @@
-delete s;
-console.log(s);
+obj.setMaxListeners(3);
