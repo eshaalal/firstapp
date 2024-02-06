@@ -12,3 +12,5 @@ obj.addListener("writing",function(msg)
     console.log(msg);
 })}
 obj.emit("writing","lets write");
+
+

@@ -1,0 +1,14 @@
+{
+    "quiz":
+    {
+        "maths": 
+        {
+            "q1":
+            {
+                "question": "what is the sum of 9+2",
+                "Options":"[11,5,9,2]"
+            },
+            "option":9
+        }   
+    }
+} 
