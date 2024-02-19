@@ -1,4 +1,9 @@
-var a= require('fs');
-var b=a.readFileSync('new.json',{encoding:"utf8"})
-var parsed=JSON.parse(b)
-console.log(parsed)
+// var json1={
+//     name:"A",
+//     age:29,
+//     marks:10
+// }
+// var parsed=JSON.stringify(json1)
+// var b=fs.writeFileSync("students.json",parsed)
+// console.log(b)
+
