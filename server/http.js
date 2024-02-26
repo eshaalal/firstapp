@@ -9,10 +9,6 @@ res.write('Welcome to Index page');
 res.end();
 }
 
-
-
-
-
 else if (req.url == "/emp")
 {
 console.log("HTTP works!");
